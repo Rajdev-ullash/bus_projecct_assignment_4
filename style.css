@@ -128,7 +128,7 @@ nav ul li a:hover, a.active{
 }
 #last-sec{
     display: none;
-    background-color: red;
+    background-color: blue;
     color: black;
     text-align: center;
     justify-content: center;
